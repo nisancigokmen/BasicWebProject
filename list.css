@@ -1,0 +1,21 @@
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    list-style: none;
+    padding-left: 1em;
+    margin-top: 2.5em;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 21px;
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+}

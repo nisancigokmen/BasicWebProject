@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* text tags... */
+
+#home-tag {
+    padding-top: 6em;
+}
+
+#features-tag {
+    padding-top: 6em;
+}
+
+#pricing-tag {
+    padding-top: 6em;
+}
+
+#disabled-tag {
+    padding-top: 6em;
+}
+
+.back-color {
+    padding-left: 0.25em;
+}
+
+.back-color:hover {
+    width: 12%;
+    background-color: black;
+    color: white;
+}
