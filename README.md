@@ -5,7 +5,6 @@
 
  <h3> Hello World With First Project </h3>
  <h3>  I will share with you the website codes that I created at the basic level. </h3>
-<h3>Please let us know your questions and comments. </h3>
  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" > 
 <hr>
 <h2> CONTACT </h2>
