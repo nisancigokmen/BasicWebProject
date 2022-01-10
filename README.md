@@ -14,7 +14,7 @@
  <h2> Connect with me: </h2>
  
   <a href=""><img src="https://i.ya-webdesign.com/images/linkedin-logo-png-for-gmail-3.png" width="72x"> </a>  &nbsp;
-   <a href=""><img src="https://alanyavitahomes.com/SiteFolder/img/email.png" width="72px"> </a> 
+   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nisancigokmen@gmail.com"><img src="https://alanyavitahomes.com/SiteFolder/img/email.png" width="72px"> </a> 
  
  </div>
  
