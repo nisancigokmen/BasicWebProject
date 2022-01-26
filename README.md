@@ -30,3 +30,5 @@
  
 <br>
 &copy; Gökmen Nişancı / Web Developer.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
