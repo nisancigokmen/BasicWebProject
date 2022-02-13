@@ -2,7 +2,6 @@
 
  ![interface](https://user-images.githubusercontent.com/91744618/137241188-0eb3ff85-a30a-4f79-8537-15fb3d29fb69.png)
 
-
  <h3> Hello World With First Project  :) </h3>
  <h3>  I will share with you the website codes that I created at the basic level. </h3>
 
@@ -14,7 +13,7 @@
  
   <a href="https://linkedin.com/in/nisancigokmen"><img src="https://i.ya-webdesign.com/images/linkedin-logo-png-for-gmail-3.png" width="72x"> </a>  &nbsp;
    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nisancigokmen@gmail.com"><img src="https://assets.webiconspng.com/uploads/2017/01/Mail-Amazing-PNG-Icon.png" width="72px"> </a> 
- 
+
  </div>
  
  <div id="tools">
